@@ -1,6 +1,6 @@
 # Citi Bike Maps
 
-We'll devote a large part of this class to working on a mini project in Leaflet. I used the Citi Bike API to get the status and location of every Citi Bike station in New York and used Leaflet to help visualize the data.  
+I used the Citi Bike API to get the status and location of every Citi Bike station in New York and used Leaflet to help visualize the data.  
 
 ## Details
 
@@ -27,9 +27,6 @@ We'll devote a large part of this class to working on a mini project in Leaflet.
 4. Add a legend to my map to explain the different markers. The following image shows an example of the final advanced map:
 
       ![44-Citibike_advanced.png](https://github.com/ItsGreyedOut/CitiBike/blob/master/static/image/44-Citibike_advanced.png)
-      
-
-5. When you complete the app, deploy it to GitHub Pages.
 
 ## Hints
 
