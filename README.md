@@ -26,7 +26,8 @@ We'll devote a large part of this class to working on a mini project in Leaflet.
 
 4. Add a legend to my map to explain the different markers. The following image shows an example of the final advanced map:
 
-      ![Citibike](image/44-Citibike_advanced.png)
+      ![44-Citibike_advanced.png](https://github.com/ItsGreyedOut/CitiBike/blob/master/static/image/44-Citibike_advanced.png)
+      
 
 5. When you complete the app, deploy it to GitHub Pages.
 
